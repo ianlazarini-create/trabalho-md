@@ -2,10 +2,10 @@
 
 
 ## Em ordem
-`python3 venv venv`
+`python3 -m venv venv`
 `source venv/bin/activate`
 `pip install pandas scikit-learn`
-`python3 random_forest.py`
+`python3 random-forest/random_forest.py`
 
 Oque fizemos
 O projeto desenvolvido tem como objetivo prever o desempenho escolar dos alunos utilizando técnicas de Machine Learning. A proposta surgiu da necessidade de identificar, de forma antecipada, quais estudantes podem apresentar dificuldades ou alcançar um bom rendimento acadêmico, permitindo que escolas e professores tomem decisões mais rápidas e eficientes para auxiliar no processo de aprendizagem.
